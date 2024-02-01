@@ -1,0 +1,25 @@
+#about-main {
+  display: flex;
+  gap: 20px;
+  padding: 20p 80px;
+  background-color: white;
+}
+.about-left {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  gap: 5px;
+}
+.about-right {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.school-image {
+  width: 500px;
+  height: 250px;
+}
+#office-desc {
+  font-size: 10px;
+  color: blue;
+}
